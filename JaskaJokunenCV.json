@@ -31,7 +31,7 @@
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Organization xyz",
     "position": "Volunteer",
     "website": "http://organization.com/",
     "startDate": "2012-01-01",
