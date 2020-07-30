@@ -29,7 +29,30 @@
     "highlights": [
       "The best developer in world"
     ]
-  }],
+  },
+    {
+      "company": "Alfame Oy",
+      "position": "Wannabe developer",
+      "website": "http://alfame.fi",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
+      "highlights": [
+        "The best developer in world"
+      ]
+    },
+    {
+      "company": "Alfame Oy",
+      "position": "Wannabe developer",
+      "website": "http://alfame.fi",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
+      "highlights": [
+        "The best developer in world"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "Organization xyz",
     "position": "Volunteer",
