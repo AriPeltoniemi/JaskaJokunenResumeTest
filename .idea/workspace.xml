@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fOcaeQOsbWEDI101VgorcVEH5a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +41,18 @@
       <screen x="0" y="23" width="1680" height="979" />
     </state>
     <state x="328" y="94" key="#Project_Structure/0.23.1680.979@0.23.1680.979" timestamp="1596092732754" />
+    <state x="685" y="442" key="Github.Dialog.Accounts.Choose" timestamp="1596093040235">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="685" y="442" key="Github.Dialog.Accounts.Choose/0.23.1680.979@0.23.1680.979" timestamp="1596093040235" />
+    <state x="623" y="398" key="Github.ShareDialog" timestamp="1596093021251">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="623" y="398" key="Github.ShareDialog/0.23.1680.979@0.23.1680.979" timestamp="1596093021251" />
+    <state x="618" y="224" key="Github.UntrackedFilesDialog" timestamp="1596093031690">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="618" y="224" key="Github.UntrackedFilesDialog/0.23.1680.979@0.23.1680.979" timestamp="1596093031690" />
     <state x="208" y="135" width="1291" height="755" key="new project wizard" timestamp="1596092724897">
       <screen x="0" y="23" width="1680" height="979" />
     </state>
