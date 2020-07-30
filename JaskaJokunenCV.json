@@ -1,34 +1,33 @@
 {
  "basics": {
-    "name": "Jaska 2222222",
+    "name": "Jaska Jokunen",
     "label": "Wannabe programmer",
     "picture": "",
-    "email": "john@gmail.com",
+    "email": "jaska@alfame.com",
     "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "website": "http://alfame.fi",
+    "summary": "A summary of Jaska...",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Käpylä",
+      "postalCode": "00510",
+      "city": "Helsinki",
+      "countryCode": "FI"
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "username": "Jaska",
+      "url": "http://twitter.com/jaska"
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
+    "company": "Alfame Oy",
+    "position": "Wannabe developer",
+    "website": "http://alfame.fi",
     "startDate": "2013-01-01",
     "endDate": "2014-01-01",
     "summary": "Description...",
     "highlights": [
-      "Started the company"
+      "The best developer in world"
     ]
   }],
   "volunteer": [{
