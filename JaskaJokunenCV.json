@@ -89,14 +89,40 @@
     "summary": "Kirja siitä miten lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum "
   }],
   "skills": [{
-    "name": "Web Development",
+    "name": "Frontti koodaus",
     "level": "Master",
     "keywords": [
       "HTML",
       "CSS",
       "Javascript"
     ]
-  }],
+  },
+    {
+      "name": "DBA",
+      "level": "Harjoittelija",
+      "keywords": [
+        "mySQL",
+        "MariaDB",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": [
+        "Kubernetics",
+        "xxx",
+        "yyyyyy"
+      ]
+    },
+    {
+      "name": "Automaatiotestaus",
+      "level": "Master",
+      "keywords": [
+        "Robots frameworks",
+        "TDD"
+      ]
+    }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
