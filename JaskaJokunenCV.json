@@ -24,7 +24,7 @@
     "position": "Wannabe developer",
     "website": "http://alfame.fi",
     "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "endDate": "",
     "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
     "highlights": [
       "The best developer in world"
@@ -34,22 +34,22 @@
       "company": "PPCT Finland Oy",
       "position": "Junior developer",
       "website": "http://alfame.fi",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
       "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
       "highlights": [
-        "The best developer in world"
+        "Pääsin frontti koodaamisen makuun"
       ]
     },
     {
       "company": "CCC Group Oy",
       "position": "Harjoitelija ohjelmoija",
       "website": "http://alfame.fi",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
       "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
       "highlights": [
-        "The best developer in world"
+        "Sain hyvät arvosanat..."
       ]
     }
   ],
