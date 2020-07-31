@@ -27,7 +27,7 @@
     "endDate": "",
     "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
     "highlights": [
-      "The best developer in world"
+      "Onnistumisia: Sain nostettua testikattavuuden yli 90%:n.", "Opittua: AWS:n käyttö hig availibility järjestelmissä"
     ]
   },
     {
@@ -38,7 +38,7 @@
       "endDate": "2013-01-01",
       "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
       "highlights": [
-        "Pääsin frontti koodaamisen makuun"
+        "Onnistumisia: Bugu keskiarvoni oli koko tiimin pienin", "Opittua: Responsiivinen UI suunnittelu"
       ]
     },
     {
@@ -47,10 +47,8 @@
       "website": "http://alfame.fi",
       "startDate": "2010-01-01",
       "endDate": "2012-01-01",
-      "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
-      "highlights": [
-        "Sain hyvät arvosanat..."
-      ]
+      "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum"
+
     }
   ],
   "volunteer": [{
