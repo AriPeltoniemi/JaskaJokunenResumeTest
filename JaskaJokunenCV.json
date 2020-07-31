@@ -139,9 +139,13 @@
     ]
   }],
   "references": [{
-    "name": "Pekka projekti",
-    "reference": "Jasko on sitten kova jätkä. Voin suositella...."
-  }]
+    "name": "Pekka Projekti",
+    "reference": "Jaska on sitten kova jätkä. Voin suositella...."
+  },
+    {
+      "name": "Harri Hankejohtaja",
+      "reference": "Jasko löysi asiakkaalle uuden palvelun jonka avulla liikevaihtomme kasvoi 20%."
+    }]
 
 
 }
