@@ -1,7 +1,7 @@
 {
  "basics": {
     "name": "Jaska Jokunen",
-    "label": "Wannabe Developer",
+    "label": "Fronttihakkeri",
     "picture": "https://www.alfame.com/hubfs/ihmiset/janne.png",
     "email": "jaska@alfame.com",
     "phone": "(912) 555-4321",
@@ -21,13 +21,13 @@
   },
   "work": [{
     "company": "Alfame Oy",
-    "position": "Almost a  developer....",
+    "position": "Wannabe Developer",
     "website": "http://alfame.fi",
     "startDate": "2013-01-01",
     "endDate": "",
     "summary": "Ohjelmoijana viis vuotta jonka aikana lorem lipsum  lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum lorem lipsum",
     "highlights": [
-      "Onnistumisia: Sain nostettua testikattavuuden yli 90%:n.", "Opittua: AWS:n käyttö hig availibility järjestelmissä"
+      "Onnistumisia: Sain nostettua testikattavuuden yli 90%:n.", "Opittua: AWS:n käyttö high availibility järjestelmissä"
     ]
   },
     {
