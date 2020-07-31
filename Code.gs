@@ -44,6 +44,8 @@ function buildAlfameCV() {
   // Asemointia
   var taulunVasenWidth = 150;
 
+  //Layout debuggausta varteb laita borderwith = 1 niin näkee taulukot
+  var borderWith = 0;
 
 
   /*
@@ -60,8 +62,9 @@ function buildAlfameCV() {
   //---  Tyhjätään dokumentti
   body.clear();
 
+
   // --- Astetaan Alfamen tyylejä -----
-  body.setAttributes(AlfameStytle);
+  body.setAttributes(AlfameStytle);   //Ei toimi?
 
 
 
@@ -77,7 +80,7 @@ function buildAlfameCV() {
   //var nimi = ylataulu.getRow(0).getCell(0).appendParagraph(r.basics.name);
   var nimi = ylataulu.getRow(0).getCell(0).insertParagraph(0, r.basics.name);
   nimi.setHeading(DocumentApp.ParagraphHeading.HEADING1);
-  ylataulu.setBorderWidth(0);
+  ylataulu.setBorderWidth(borderWith);
   ylataulu.getRow(0).getCell(0).setAttributes(cLeft);
   ylataulu.getRow(0).getCell(0).setWidth(400);
 
@@ -139,7 +142,8 @@ function buildAlfameCV() {
       for (var j = 0; j < r.work[i].highlights.length; j++) {
 
         var hl = body.appendListItem(r.work[i].highlights[j]);
-        hl.setGlyphType(DocumentApp.GlyphType.SQUARE_BULLET)
+        hl.setGlyphType(DocumentApp.GlyphType.HOLLOW_BULLET);
+
       }
     }
   }
@@ -215,7 +219,7 @@ function buildAlfameCV() {
     if (definedAndNotEmpty(r.education[i].courses)) {
       body.appendParagraph("Courses:").setBold(true);
       for (var j = 0; j < r.education[i].courses.length; j++) {
-        body.appendListItem(r.education[i].courses[j]).setGlyphType(DocumentApp.GlyphType.SQUARE_BULLET);
+        body.appendListItem(r.education[i].courses[j]).setGlyphType(DocumentApp.GlyphType.HOLLOW_BULLET);
       }
     }
   }
@@ -236,7 +240,7 @@ function buildAlfameCV() {
 
     var kieli = body.appendTable(cell);
 
-    kieli.setBorderWidth(0);
+    kieli.setBorderWidth(borderWith);
     kieli.getRow(0).getCell(0).setAttributes(cLeft);
     kieli.getRow(0).getCell(0).setWidth(taulunVasenWidth);
     kieli.getRow(0).getCell(1).getChild(0).asParagraph().setAttributes(cLeft);
